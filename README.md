@@ -9,6 +9,6 @@ I know nobody cares about certs, but here are a few of mine:
 - [JavaScript Algorithms and Data Structures (fCC)](https://www.freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/javascript-algorithms-and-data-structures)
 
 ### Contact Me
-Feel free to check out [my portfolio](https://aburke.dev) or connect with my via [LinkedIn](https://www.linkedin.com/in/andrew-burke-mke).
+Feel free to check out [my portfolio](https://aburke.dev) or connect with me via [LinkedIn](https://www.linkedin.com/in/andrew-burke-mke).
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndyTBurke&theme=dark&background=000000)](https://git.io/streak-stats)
