@@ -2,10 +2,10 @@
 I'm mostly writing web apps with JavaScript and React, but sometimes I write programs with Python 🐍.
 
 ### Projects
-- Turkey Cook Time
+- *Turkey Cook Time*
+  - Planning the Thanksgiving Day cooking schedule is very difficult, so this tool estimates the amount of time your turkey will take in the oven (or deep-fryer, air-fryer, smoker) to help you plan the day. There are a variety of options to adjust, depending on your cooking style and bird size. This was made with React for Thanksgiving 2022.
   - [See it live](https://turkeycooktime.aburke.dev/)
   - [See the repo](https://github.com/AndyTBurke/TurkeyCookTime)
-  - Planning the Thanksgiving Day cooking schedule is very difficult, so this tool estimates the amount of time your turkey will take in the oven (or deep-fryer, air-fryer, smoker) to help you plan the day. There are a variety of options to adjust, depending on your cooking style and bird size. This was made with React for Thanksgiving 2022.
 
 ### Certifications
 I know nobody cares about certs, but here are a few of mine:
