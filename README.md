@@ -20,3 +20,4 @@ I know nobody cares about certs, but here are a few of mine:
 Feel free to check out [my portfolio](https://aburke.dev) or connect with me via [LinkedIn](https://www.linkedin.com/in/andrew-burke-mke).
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndyTBurke&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyTBurke)](https://github.com/AndyTBurke/github-readme-stats)
