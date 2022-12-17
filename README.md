@@ -13,6 +13,7 @@ I know nobody cares about certs, but here are a few of mine:
   - [Data Visualization](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/data-visualization)
   - [Relational Databases](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/relational-database-v8)
   - [Front End Development Libraries](https://www.freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/front-end-development-libraries)
+  - [Back End Development and APIs](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/back-end-development-and-apis)
   - [Scientific Computing with Python](https://www.freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/scientific-computing-with-python-v7)
   - [Responsive Web Design](https://www.freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/responsive-web-design)
   - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/javascript-algorithms-and-data-structures)
