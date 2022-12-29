@@ -8,7 +8,9 @@ I'm mostly writing web apps with JavaScript and React, but sometimes I write pro
 
 ### Certifications
 I know nobody cares about certs, but here are a few of mine:
-- [Front End Developer Career Path (Scrimba)](https://scrimba.com/certificate/uMbBEnAW/gfrontend)
+- Scrimba Certificates
+  - [Front End Developer Career Path](https://scrimba.com/certificate/uMbBEnAW/gfrontend)
+  - [JavaScript Deep Dive](https://scrimba.com/certificate/uMbBEnAW/gjavascript)
 - freeCodeCamp Certificates
   - [Data Visualization](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/data-visualization)
   - [Relational Databases](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/relational-database-v8)
