@@ -7,18 +7,10 @@ I'm mostly writing web apps with JavaScript and React, but sometimes I write pro
   - [See it live](https://turkeycooktime.aburke.dev/) or [See the repo](https://github.com/AndyTBurke/TurkeyCookTime)
 
 ### Certifications
+
 I know nobody cares about certs, but here are a few of mine:
-- Scrimba Certificates
-  - [Front End Developer Career Path](https://scrimba.com/certificate/uMbBEnAW/gfrontend)
-  - [JavaScript Deep Dive](https://scrimba.com/certificate/uMbBEnAW/gjavascript)
-- freeCodeCamp Certificates
-  - [Data Visualization](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/data-visualization)
-  - [Relational Databases](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/relational-database-v8)
-  - [Front End Development Libraries](https://www.freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/front-end-development-libraries)
-  - [Back End Development and APIs](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/back-end-development-and-apis)
-  - [Scientific Computing with Python](https://www.freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/scientific-computing-with-python-v7)
-  - [Responsive Web Design](https://www.freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/responsive-web-design)
-  - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/javascript-algorithms-and-data-structures)
+- Scrimba Certificates: [Front End Developer Career Path](https://scrimba.com/certificate/uMbBEnAW/gfrontend) 〣 [JavaScript Deep Dive](https://scrimba.com/certificate/uMbBEnAW/gjavascript)
+- freeCodeCamp Certificates: [Data Visualization](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/data-visualization) 〣 [Relational Databases](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/relational-database-v8) 〣 [Front End Development Libraries](https://www.freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/front-end-development-libraries) 〣 [Back End Development and APIs](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/back-end-development-and-apis) 〣 [Scientific Computing with Python](https://www.freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/scientific-computing-with-python-v7) 〣 [Responsive Web Design](https://www.freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/responsive-web-design) 〣 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/javascript-algorithms-and-data-structures) 〣 [Information Security](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/information-security-v7) 〣 [Data Analysis with Python](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/data-analysis-with-python-v7) 〣 [Machine Learning with Python](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/machine-learning-with-python-v7) 〣 [Quality Assurance](https://freecodecamp.org/certification/fcc18f6c18e-f2d2-403d-ac66-c78bd2691e55/quality-assurance-v7)
 
 ### Contact Me
 Feel free to check out [my portfolio](https://aburke.dev) or connect with me via [LinkedIn](https://www.linkedin.com/in/andrew-burke-mke).
