@@ -13,10 +13,6 @@ I'm mostly doing web apps with JavaScript/React, sometimes Django or Flask or No
 - **Turkey Cook Time**
   - Planning the Thanksgiving Day cooking schedule is very difficult, so this tool estimates the amount of time your turkey will take in the oven (or deep-fryer, air-fryer, smoker) to help you plan the day. There are a variety of options to adjust, depending on your cooking style and bird size. This was made with React for Thanksgiving 2022.
   - [See it live](https://turkeycooktime.aburke.dev/) or [See the repo](https://github.com/AndyTBurke/TurkeyCookTime)
- 
-- **Course Reviews**
-  - A repo of course reviews.
-  - [See it here](https://github.com/AndyTBurke/Course_Reviews)
 
 ### Contact Me
-Feel free to check out [my portfolio](https://aburke.dev) or connect with me via [LinkedIn](https://www.linkedin.com/in/andrew-burke-mke).
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/andrew-burke-mke).
